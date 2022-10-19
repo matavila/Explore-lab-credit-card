@@ -2,7 +2,7 @@
 @import "credit-card.css";
 @import "form.css";
 body {
-  background-image: url(/public/Wallpaper-\ 2560x1600.png);
+  background-image: url(/public/Wallpaper.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
